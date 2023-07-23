@@ -1,2 +1,2 @@
-# waoap.github.io
+# seagulloddy.github.io
 My blog
