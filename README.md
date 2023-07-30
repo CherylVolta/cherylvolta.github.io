@@ -1,2 +1,3 @@
 # seagulloddy.github.io
-My blog
+
+My blog.
