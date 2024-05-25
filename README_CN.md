@@ -1,8 +1,6 @@
 <!-- Title -->
 <a name="readme-top"></a>
 <div align="center">
-  <img src="docs/images/logo.png" alt="Logo" />
-
   <h1>博客</h1>
 
   <h4>我的博客。</h4>

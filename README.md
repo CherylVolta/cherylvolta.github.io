@@ -1,8 +1,6 @@
 <!-- Title -->
 <a name="readme-top"></a>
 <div align="center">
-  <img src="docs/images/logo.png" alt="Logo" />
-
   <h1>Blog</h1>
 
   <h4>Blog here.</h4>
