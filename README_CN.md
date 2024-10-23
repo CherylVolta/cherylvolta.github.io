@@ -6,8 +6,12 @@
   <h4>我的博客。</h4>
 
   <p>
-    <a href="../../stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/CherylVolta/cherylvolta.github.io?style=flat"></a>
-    <a href="LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/CherylVolta/cherylvolta.github.io"></a>
+    <a href="../../stargazers">
+      <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/Lyana-nullptr/lyana-nullptr.github.io?style=flat">
+    </a>
+    <a href="LICENSE">
+      <img alt="GitHub License" src="https://img.shields.io/github/license/Lyana-nullptr/lyana-nullptr.github.io">
+    </a>
   </p>
 
   <p>
