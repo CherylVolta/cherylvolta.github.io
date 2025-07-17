@@ -21,6 +21,10 @@
   </p>
 </div>
 
+> [!CAUTION]
+>
+> 当下，我正在尝试把博客部署到 netlify，灵感来自 [antfu.me](https://antfu.me)。
+
 <!-- 许可 -->
 ## 许可
 
