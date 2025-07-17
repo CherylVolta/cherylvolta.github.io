@@ -21,6 +21,10 @@
   </p>
 </div>
 
+> [!CAUTION]
+>
+> Currently, I'm trying to deploy my blog on netlify which is inspired by [antfu.me](https://antfu.me).
+
 <!-- License -->
 ## License
 
